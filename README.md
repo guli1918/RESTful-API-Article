@@ -1,11 +1,45 @@
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [About Me](#hey-there)
+
+
+<br>
+
+
+## General info
+This is one page RESTful API. using expressJS and mongoDB.
+	
+<br>
+
+## Technologies
+Project is created with:
+* EJS version 3.1.6
+* Express version 4.17.1
+* Mongoose version 5.12.13
+
+<br>
+
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd to the project /Wiki-API
+$ npm install
+$ node app.js
+```
+<br><br>
+
+# 
+
 <!-- My personal information template starting down below -->
 
-
-
+<br><br>
 
 
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey there
 <br>
 <!--Introduction -->
 I'm Mustafa, 22 years old highly motivated self starting developer sekking to start career path on developing web and mobile applications. Familiar in web development and many web related frameworks.
@@ -25,7 +59,7 @@ I'm Mustafa, 22 years old highly motivated self starting developer sekking to st
 
 
 <br><br><br><br><br><br>
-<h4 align="center"> I’m currently learning <img width=50 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h4><br>
+<h4 align="center"> I’m currently using one of these <img width=50 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h4><br>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height= "30" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height= "30" />
